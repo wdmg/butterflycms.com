@@ -37,13 +37,13 @@
                     </div>
                 </div>
                 <div class="row align-items-center justify-content-around mt-5">
-                    <div class="col-sm-4">
+                    <div class="col-sm-4 text-center text-sm-left">
                         <span class="text-white alpha-7">Powered by</span>
                         <a href="https://www.yiiframework.com" target="_blank" title="Yii PHP Framework">
                             <img src="img/brand/yiiframework-white-slim.png" class="ml-3" style="height: 36px; margin-top: -4px;">
                         </a>
                     </div>
-                    <div class="col-sm-4 mt-4 mt-sm-0 text-right">
+                    <div class="col-sm-4 mt-4 pb-3 text-center text-sm-right">
                         <span class="text-white alpha-7">Coded by</span>
                         <a href="https://wdmg.com.ua" target="_blank" title="W.D.M.Group, Ukraine">
                             <img src="img/brand/wdmg-white-slim.png" class="ml-3" style="height: 42px; margin-top: -2px;">
