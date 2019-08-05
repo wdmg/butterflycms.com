@@ -14,39 +14,39 @@
         </div>
         <div class="container shape-container d-flex align-items-center">
             <div class="col px-0">
-                <div class="row justify-content-center align-items-center">
-                    <div class="col-lg-7 text-center pt-lg">
-                        <img src="img/brand/white.png" style="width: 200px;" class="img-fluid">
-                        <p class="lead text-white mt-4 mb-5">A beautiful Design System for Bootstrap 4. It's Free and Open Source.</p>
+                <div class="row justify-content-center align-items-center mb-5">
+                    <div class="col-lg-7 text-center">
+                        <img src="img/welcome.png" style="width: 320px;" class="img-fluid">
+                        <p class="lead text-white mt-4 mb-2">We create an Innovative Content Management System based on Yii2 framework. It's Free and Open Source.</p>
                         <div class="btn-wrapper">
                             <base-button tag="a"
-                                         href="https://demos.creative-tim.com/vue-argon-design-system/documentation"
+                                         href="https://github.com/wdmg/butterfly.cms/archive/1.0.6.zip"
                                          class="mb-3 mb-sm-0"
                                          type="info"
-                                         icon="fa fa-code">
-                                Components
+                                         icon="fa fa-cloud-download">
+                                Download [1.0.6]
                             </base-button>
                             <base-button tag="a"
-                                         href="https://www.creative-tim.com/product/vue-argon-design-system"
+                                         href="https://github.com/wdmg/butterfly.cms"
                                          class="mb-3 mb-sm-0"
                                          type="white"
-                                         icon="ni ni-cloud-download-95">
-                                Download Vue
+                                         icon="fa fa-code">
+                                Join the contributors
                             </base-button>
                         </div>
                     </div>
                 </div>
-                <div class="row align-items-center justify-content-around stars-and-coded">
+                <div class="row align-items-center justify-content-around mt-5">
                     <div class="col-sm-4">
-                        <span class="text-white alpha-7 ml-3">Star us on</span>
-                        <a href="https://github.com/creativetimofficial/argon-design-system" target="_blank" title="Support us on Github">
-                            <img src="img/brand/github-white-slim.png" style="height: 22px; margin-top: -3px">
+                        <span class="text-white alpha-7">Powered by</span>
+                        <a href="https://www.yiiframework.com" target="_blank" title="Yii PHP Framework">
+                            <img src="img/brand/yiiframework-white-slim.png" class="ml-3" style="height: 36px; margin-top: -4px;">
                         </a>
                     </div>
                     <div class="col-sm-4 mt-4 mt-sm-0 text-right">
                         <span class="text-white alpha-7">Coded by</span>
-                        <a href="https://www.creative-tim.com" target="_blank" title="Creative Tim - Premium Bootstrap Themes and Templates">
-                            <img src="img/brand/creativetim-white-slim.png" class="ml-3" style="height: 30px;">
+                        <a href="https://wdmg.com.ua" target="_blank" title="W.D.M.Group, Ukraine">
+                            <img src="img/brand/wdmg-white-slim.png" class="ml-3" style="height: 42px; margin-top: -2px;">
                         </a>
                     </div>
                 </div>

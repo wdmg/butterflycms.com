@@ -10,7 +10,7 @@ module.exports = {
     ]
   },
   pwa: {
-    name: ' Butterfly.CMS',
+    name: 'Butterfly.CMS',
     themeColor: '#172b4d',
     msTileColor: '#172b4d',
     appleMobileWebAppCapable: 'yes',

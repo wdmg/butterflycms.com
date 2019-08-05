@@ -13,8 +13,11 @@
 import { FadeTransition } from "vue2-transitions";
 
 export default {
-  components: {
-    FadeTransition
-  }
+    components: {
+        FadeTransition
+    },
+    created () {
+        document.title = "Butterfly.CMS";
+    }
 };
 </script>

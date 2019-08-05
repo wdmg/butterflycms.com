@@ -83,7 +83,6 @@
     // Color variations
     .shape-primary {
         background: linear-gradient(150deg, shapes-primary-color("step-1-gradient-bg") 15%, shapes-primary-color("step-2-gradient-bg") 70%, shapes-primary-color("step-3-gradient-bg") 94%);
-
         :nth-child(1) {
             background: shapes-primary-color("span-1-bg");
         }
@@ -288,7 +287,9 @@
 
         // shape color variations
         &.shape-primary {
-            background: linear-gradient(150deg, shapes-primary-color("step-1-gradient-bg") 15%, shapes-primary-color("step-2-gradient-bg") 70%, shapes-primary-color("step-3-gradient-bg") 94%);
+            //background: linear-gradient(150deg, shapes-primary-color("step-1-gradient-bg") 15%, shapes-primary-color("step-2-gradient-bg") 70%, shapes-primary-color("step-3-gradient-bg") 94%);
+            background: #00171F;
+            background-image: radial-gradient(50% 100%, rgba(138,213,247,0.38) 20%, rgba(30,111,147,0.00) 100%);
         }
 
         &.shape-default {
