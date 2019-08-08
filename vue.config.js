@@ -11,10 +11,10 @@ module.exports = {
   },
   pwa: {
     name: 'Butterfly.CMS',
-    themeColor: '#172b4d',
-    msTileColor: '#172b4d',
+    themeColor: '#1786DB',
+    msTileColor: '#1786DB',
     appleMobileWebAppCapable: 'yes',
-    appleMobileWebAppStatusBarStyle: '#172b4d'
+    appleMobileWebAppStatusBarStyle: '#1786DB'
   },
   css: {
     // Enable CSS source maps.

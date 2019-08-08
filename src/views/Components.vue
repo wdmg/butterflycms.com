@@ -1,6 +1,8 @@
 <template>
     <div>
         <hero></hero>
+        <about></about>
+        <screenshots></screenshots>
         <!-- Modules></Modules>
         <basic-elements></basic-elements>
         <inputs></inputs>
@@ -15,6 +17,8 @@
 </template>
 <script>
 import Hero from "./components/Hero";
+import About from "./components/About";
+import Screenshots from "./components/Screenshots";
 /*import Modules from "./components/Modules";
 import BasicElements from "./components/BasicElements";
 import Inputs from "./components/Inputs";
@@ -30,6 +34,8 @@ export default {
   name: "components",
   components: {
     Hero,
+    About,
+    Screenshots,
     /*Modules,
     BasicElements,
     Inputs,
