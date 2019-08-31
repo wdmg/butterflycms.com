@@ -17,7 +17,7 @@
                     <p>An end-to-end API for all modules is also provided. So you can easily build single-page applications on Angular, Vue.js, etc.</p>
                     <p>And finally, we would like to contact the developer community. Everyone who is interested in the idea and who feel the need to develop the project, we ask you -</p>
                     <p style="text-align: center;">
-                        <a class="btn btn-secondary" href="https://github.com/wdmg/butterfly.cms/archive/1.0.7.zip" target="_blank">Download [v1.0.7]</a>
+                        <a class="btn btn-secondary" href="https://github.com/wdmg/butterfly.cms/archive/1.0.8.zip" target="_blank">Download [v1.0.8]</a>
                         <a class="btn btn-primary" href="https://github.com/wdmg/butterfly.cms/graphs/contributors" target="_blank">Join to Us!</a>
                     </p>
                 </div>
