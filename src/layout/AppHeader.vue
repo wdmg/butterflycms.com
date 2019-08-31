@@ -2,12 +2,12 @@
     <header class="header-global">
         <base-nav class="navbar-main" transparent type="" effect="light" expand>
             <router-link slot="brand" class="navbar-brand mr-lg-5" to="/" style="margin-top: -6px;">
-                <img src="img/logotype-inline-white.png" alt="logo">
+                <img src="img/logotype-inline-white.png" alt="Butterfly.CMS" title="Butterfly.CMS - { $t('Сontent management system (CMS)') }">
             </router-link>
             <div class="row" slot="content-header" slot-scope="{closeMenu}">
                 <div class="col-6 collapse-brand">
                     <router-link slot="brand" to="/">
-                        <img src="img/logotype-inline.png" alt="logo">
+                        <img src="img/logotype-inline.png" alt="Butterfly.CMS" title="Butterfly.CMS - { $t('Сontent management system (CMS)') }">
                     </router-link>
                 </div>
                 <div class="col-6 collapse-close">
@@ -84,15 +84,7 @@
                         <span class="nav-link-inner--text d-lg-none">Github</span>
                     </a>
                 </li>
-                <!-- li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="https://github.com/wdmg/butterfly.cms/archive/1.0.6.zip" target="_blank" rel="noopener"
-                       class="btn btn-neutral btn-icon">
-                        <span class="btn-inner--icon">
-                          <i class="fa fa-cloud-download mr-2"></i>
-                        </span>
-                        <span class="nav-link-inner--text">Download</span>
-                    </a>
-                </li -->
+                <locale-switcher :locales="['en', 'ua', 'ru']" :show-full="true"></locale-switcher>
             </ul>
         </base-nav>
     </header>
@@ -101,13 +93,15 @@
 import BaseNav from "@/components/BaseNav";
 import BaseDropdown from "@/components/BaseDropdown";
 import CloseButton from "@/components/CloseButton";
+import LocaleSwitcher from "@/components/LocaleSwitcher";
 
 export default {
-  components: {
-    BaseNav,
-    CloseButton,
-    BaseDropdown
-  }
+    components: {
+        BaseNav,
+        CloseButton,
+        BaseDropdown,
+        LocaleSwitcher
+    }
 };
 </script>
 <style>
