@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## 1.0.1 (2019-09-01)
+ * Added analytics
+
 ## 1.0.0 (2019-08-31)
  * Added i18n translations
  * Bugfix lightbox gallery of screenshots
