@@ -1,5 +1,13 @@
-.DS_Store
+# dependencies
 node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
 dist
 
 # local env files
@@ -19,3 +27,4 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
+.DS_Store
