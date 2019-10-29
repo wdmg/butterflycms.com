@@ -2,12 +2,12 @@
   <header class="header-global">
     <base-nav class="navbar-main" transparent type="" effect="light" expand>
       <router-link slot="brand" class="navbar-brand mr-lg-5" to="/" style="margin-top: -6px;">
-        <img src="img/logotype-inline-white.png" alt="Butterfly.CMS" title="Butterfly.CMS - { $t('Сontent management system (CMS)') }">
+        <img src="/img/logotype-inline-white.png" alt="Butterfly.CMS" title="Butterfly.CMS - { $t('Сontent management system (CMS)') }">
       </router-link>
       <div class="row" slot="content-header" slot-scope="{closeMenu}">
         <div class="col-6 collapse-brand">
           <router-link slot="brand" to="/">
-            <img src="img/logotype-inline.png" alt="Butterfly.CMS" title="Butterfly.CMS - { $t('Сontent management system (CMS)') }">
+            <img src="/img/logotype-inline.png" alt="Butterfly.CMS" title="Butterfly.CMS - { $t('Сontent management system (CMS)') }">
           </router-link>
         </div>
         <div class="col-6 collapse-close">
