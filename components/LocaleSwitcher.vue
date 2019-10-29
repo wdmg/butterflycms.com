@@ -67,6 +67,7 @@
                   maxAge: 60 * 60 * 24 * 7
                 });
                 this.$i18n.locale = Vue.config.lang;
+                return this.$root.$emit('localeChange', locale);
             },
             getLanguageString: function (locale) {
                 return this.showFull ? localeStrings[locale] : locale;

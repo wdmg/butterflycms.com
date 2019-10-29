@@ -2,6 +2,7 @@
   <div>
     <hero></hero>
     <about></about>
+    <screenshots></screenshots>
   </div>
 </template>
 

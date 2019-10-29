@@ -20,11 +20,11 @@
                         <p class="lead text-white mt-4 mb-2">{{ $t("We build an Innovative Content Management System based on Yii2 framework. It's Free and Open Source.") }}</p>
                         <div class="btn-wrapper">
                             <base-button tag="a"
-                                         href="https://github.com/wdmg/butterfly.cms/archive/1.0.11.zip"
+                                         href="https://github.com/wdmg/butterfly.cms/archive/1.0.12.zip"
                                          class="mb-3 mb-sm-0"
                                          type="white"
                                          icon="fa fa-cloud-download">
-                                {{ $t('Download') }} [1.0.11]
+                                {{ $t('Download') }} [1.0.12]
                             </base-button>
                             <base-button tag="a"
                                          href="https://github.com/wdmg/butterfly.cms"
