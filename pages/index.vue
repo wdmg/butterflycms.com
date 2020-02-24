@@ -13,7 +13,7 @@
 
   export default {
     name: "home",
-    layout: "default",
+    layout: "index",
     components: {
       Hero,
       About,
