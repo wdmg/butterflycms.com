@@ -9,6 +9,9 @@ const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
 } : {}
 
 module.exports = {
+  props: {
+    locales: ['en', 'ru', 'uk']
+  },
   /*
   ** Headers of the page
   */
@@ -59,13 +62,20 @@ module.exports = {
   */
   loading: { color: '#3B8070' },
   /*
+  ** Default layout
+   */
+  layout: 'index',
+  /*
   ** Build configuration
   */
   build: {
     /*
      ** Add external plugins
      */
-    vendor: ["jquery", "bootstrap"],
+    vendor: [
+      "jquery",
+      "bootstrap"
+    ],
     plugins: [
       new webpack.ProvidePlugin({
         $: "jquery"
@@ -81,8 +91,34 @@ module.exports = {
           test: /\.(js|vue)$/,
           loader: 'eslint-loader',
           exclude: /(node_modules)/
-        })
+        });
       }
     }
+  },
+  mounted () {
+    this.data(() => {
+      return {
+        lang: null,
+        locales: {
+          bydefault: "en",
+          support: [
+            "en",
+            "nl",
+            "ru",
+            "uk",
+            "fr",
+            "de"
+          ],
+          strings: {
+            en: "English",
+            nl: "Nederlands",
+            ru: "Русский",
+            uk: "Українська",
+            fr: "Français",
+            de: "Deutsch"
+          }
+        }
+      };
+    })
   }
 }

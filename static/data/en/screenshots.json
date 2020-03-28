@@ -1,92 +1,133 @@
 [
   {
-    "src": "/img/screenshots/en/01_example.com.png",
-    "thumb": "/img/screenshots/en/01_example.com_thumb.png",
+    "src": "/img/screenshots/en/butterflycms-screenshot-1.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-1.png",
     "caption": "Butterfly.CMS login page"
   },
   {
-    "src": "/img/screenshots/en/02_example.com.png",
-    "thumb": "/img/screenshots/en/02_example.com_thumb.png",
+    "src": "/img/screenshots/en/butterflycms-screenshot-2.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-2.png",
     "caption": "Dashboard (widgets)"
   },
   {
-    "src": "/img/screenshots/en/03_example.com.png",
-    "thumb": "/img/screenshots/en/03_example.com_thumb.png",
+    "src": "/img/screenshots/en/butterflycms-screenshot-3.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-3.png",
     "caption": "Butterfly.CMS system modules"
   },
   {
-    "src": "/img/screenshots/en/04_example.com.png",
-    "thumb": "/img/screenshots/en/04_example.com_thumb.png",
+    "src": "/img/screenshots/en/butterflycms-screenshot-4.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-4.png",
     "caption": "API module: list of available APIs"
   },
   {
-    "src": "/img/screenshots/en/05_example.com.png",
-    "thumb": "/img/screenshots/en/05_example.com_thumb.png",
+    "src": "/img/screenshots/en/butterflycms-screenshot-5.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-5.png",
     "caption": "API module: API testing"
   },
   {
-    "src": "/img/screenshots/en/06_example.com.png",
-    "thumb": "/img/screenshots/en/06_example.com_thumb.png",
+    "src": "/img/screenshots/en/butterflycms-screenshot-6.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-6.png",
     "caption": "Butterfly.CMS system settings"
   },
   {
-    "src": "/img/screenshots/en/07_example.com.png",
-    "thumb": "/img/screenshots/en/07_example.com_thumb.png",
+    "src": "/img/screenshots/en/butterflycms-screenshot-7.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-7.png",
     "caption": "Butterfly.CMS Service"
   },
   {
-    "src": "/img/screenshots/en/08_example.com.png",
-    "thumb": "/img/screenshots/en/08_example.com_thumb.png",
+    "src": "/img/screenshots/en/butterflycms-screenshot-8.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-8.png",
+    "caption": "Redirects manager in Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/en/butterflycms-screenshot-9.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-9.png",
     "caption": "View sent mail in Butterfly.CMS"
   },
   {
-    "src": "/img/screenshots/en/09_example.com.png",
-    "thumb": "/img/screenshots/en/09_example.com_thumb.png",
+    "src": "/img/screenshots/en/butterflycms-screenshot-10.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-10.png",
     "caption": "Console terminal at Butterfly.CMS"
   },
   {
-    "src": "/img/screenshots/en/10_example.com.png",
-    "thumb": "/img/screenshots/en/10_example.com_thumb.png",
+    "src": "/img/screenshots/en/butterflycms-screenshot-11.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-11.png",
     "caption": "Static pages module in Butterfly.CMS"
   },
   {
-    "src": "/img/screenshots/en/11_example.com.png",
-    "thumb": "/img/screenshots/en/11_example.com_thumb.png",
+    "src": "/img/screenshots/en/butterflycms-screenshot-12.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-12.png",
     "caption": "Butterfly.CMS news module"
   },
   {
-    "src": "/img/screenshots/en/12_example.com.png",
-    "thumb": "/img/screenshots/en/12_example.com_thumb.png",
-    "caption": "Translation module in Butterfly.CMS"
+    "src": "/img/screenshots/en/butterflycms-screenshot-13.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-13.png",
+    "caption": "Publication edit in Butterfly.CMS"
   },
   {
-    "src": "/img/screenshots/en/13_example.com.png",
-    "thumb": "/img/screenshots/en/13_example.com_thumb.png",
+    "src": "/img/screenshots/en/butterflycms-screenshot-14.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-14.png",
+    "caption": "Newsletter module in Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/en/butterflycms-screenshot-15.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-15.png",
+    "caption": "Subscribers module in Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/en/butterflycms-screenshot-16.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-16.png",
+    "caption": "Custom forms module in Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/en/butterflycms-screenshot-17.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-17.png",
+    "caption": "Search module in Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/en/butterflycms-screenshot-18.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-18.png",
+    "caption": "Manage your geolocation lists in Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/en/butterflycms-screenshot-19.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-19.png",
+    "caption": "Sitemap module in Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/en/butterflycms-screenshot-20.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-20.png",
     "caption": "User management in Butterfly.CMS"
   },
   {
-    "src": "/img/screenshots/en/14_example.com.png",
-    "thumb": "/img/screenshots/en/14_example.com_thumb.png",
+    "src": "/img/screenshots/en/butterflycms-screenshot-21.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-21.png",
     "caption": "Managing access roles in Butterfly.CMS"
   },
   {
-    "src": "/img/screenshots/en/15_example.com.png",
-    "thumb": "/img/screenshots/en/15_example.com_thumb.png",
-    "caption": "Butterfly.CMS support ticket module"
-  },
-  {
-    "src": "/img/screenshots/en/16_example.com.png",
-    "thumb": "/img/screenshots/en/16_example.com_thumb.png",
+    "src": "/img/screenshots/en/butterflycms-screenshot-22.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-22.png",
     "caption": "Statistics module in Butterfly.CMS"
   },
   {
-    "src": "/img/screenshots/en/17_example.com.png",
-    "thumb": "/img/screenshots/en/17_example.com_thumb.png",
+    "src": "/img/screenshots/en/butterflycms-screenshot-24.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-24.png",
     "caption": "Statistics module in Butterfly.CMS"
   },
   {
-    "src": "/img/screenshots/en/18_example.com.png",
-    "thumb": "/img/screenshots/en/18_example.com_thumb.png",
-    "caption": "Manage your geolocation lists in Butterfly.CMS"
+    "src": "/img/screenshots/en/butterflycms-screenshot-23.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-23.png",
+    "caption": "Load monitoring module in Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/en/butterflycms-screenshot-25.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-25.png",
+    "caption": "Butterfly.CMS support tasks module"
+  },
+  {
+    "src": "/img/screenshots/en/butterflycms-screenshot-26.png",
+    "thumb": "/img/screenshots/en/thumbnails/butterflycms-screenshot-26.png",
+    "caption": "Butterfly.CMS support tickets module"
+
   }
 ]

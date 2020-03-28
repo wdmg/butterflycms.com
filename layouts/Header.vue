@@ -16,6 +16,9 @@
       </div>
       <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
         <li class="nav-item">
+          <router-link to="/about" class="nav-link">{{ $t('About') }}</router-link>
+        </li>
+        <li class="nav-item">
           <router-link to="/modules" class="nav-link">{{ $t('Modules') }}</router-link>
         </li>
         <!-- li class="nav-item">
@@ -93,13 +96,14 @@
             <span class="nav-link-inner--text d-lg-none">Github</span>
           </a>
         </li>
-        <locale-switcher :locales="['en', 'ua', 'ru']" :show-full="true"></locale-switcher>
+        <locale-switcher :locales="locales" :show-full="true"></locale-switcher>
       </ul>
     </base-nav>
   </header>
 </template>
 
 <script>
+  import Vue from 'vue';
   import BaseNav from "~/components/BaseNav";
   import BaseButton from "~/components/BaseButton";
   import BaseDropdown from "~/components/BaseDropdown";
@@ -107,6 +111,11 @@
   import LocaleSwitcher from "~/components/LocaleSwitcher";
 
   export default {
+    data: function () {
+      return {
+        locales: Vue.config.locales.support
+      }
+    },
     components: {
       BaseNav,
       CloseButton,

@@ -13,7 +13,7 @@
 <script>
 
   export default {
-    name: "docs",
+    name: "contacts-page",
     layout: "inner",
     components: {
     }

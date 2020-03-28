@@ -13,7 +13,7 @@
 <script>
 
   export default {
-    name: "docs",
+    name: "docs-page",
     layout: "inner",
     components: {
     }

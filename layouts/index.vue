@@ -32,6 +32,7 @@
   import VueLazyload from "vue-lazyload";
   import ClickOutside from "~/directives/click-outside";
 
+
   Vue.use({
     install(Vue) {
       Vue.component(Badge.name, Badge);

@@ -62,7 +62,7 @@ export default {
   },
   methods: {
     toggleDropDown() {
-      this.isOpen = !this.isOpen;
+      this.isOpen = this.isOpen;
       this.$emit("change", this.isOpen);
     },
     closeDropDown() {

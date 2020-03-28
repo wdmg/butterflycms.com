@@ -7,7 +7,7 @@
   import Modules from "~/views/components/Modules";
 
   export default {
-    name: "modules",
+    name: "modules-page",
     layout: "inner",
     components: {
       'list': Modules
