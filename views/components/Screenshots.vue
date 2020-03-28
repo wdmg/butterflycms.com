@@ -8,7 +8,7 @@
             </div>
             <div class="row mb-sm">
               <div class="col-md-4 mb-3 mb-lg-4" v-for="(image, index) in images" v-bind:key="image.src">
-                  <a :href="image.src" class="card card-lift--hover shadow border-0" v-on:click.prevent="openGallery(index)">
+                  <a :href="image.src" :title="image.caption" class="card card-lift--hover shadow border-0" v-on:click.prevent="openGallery(index)">
                       <img v-lazy="image.src" class="card-img" />
                   </a>
               </div>
@@ -21,9 +21,9 @@
 <script>
 
     import Vue from 'vue';
-    import images_en from './../../screenshots_en';
-    import images_ru from './../../screenshots_ru';
-    import siteLoading from './../../siteloading.gif';
+    import imagesEn from '../../static/data/en/screenshots.json';
+    import imagesRu from '../../static/data/ru/screenshots.json';
+    import siteLoading from '../../static/img/siteloading.gif';
 
     export default {
         data () {
@@ -34,18 +34,18 @@
         },
         created() {
           if (Vue.config.lang == 'ru' || Vue.config.lang == 'ua')
-            this.images = images_ru;
+            this.images = imagesRu;
           else
-            this.images = images_en;
+            this.images = imagesEn;
 
         },
         mounted() {
           var _this = this;
           this.$root.$on('localeChange', function (locale) {
             if (locale == 'ru' || locale == 'ua')
-              _this.images = images_ru;
+              _this.images = imagesRu;
             else
-              _this.images = images_en;
+              _this.images = imagesEn;
           });
         },
         methods: {

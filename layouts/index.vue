@@ -7,7 +7,7 @@
       </fade-transition>
     </main>
     <app-footer />
-    <noscript><div><img src="https://mc.yandex.ru/watch/55144840" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <noscript><div><img src="https://mc.yandex.ru/watch/55144840" style="position:absolute; left:-9999px;" alt="Yandex.Metrika" /></div></noscript>
   </div>
 </template>
 
