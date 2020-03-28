@@ -1,0 +1,46 @@
+[
+  {
+    "id": "app",
+    "title": "Application"
+  },
+  {
+    "id": "system",
+    "title": "System"
+  },
+  {
+    "id": "publications",
+    "title": "Publications"
+  },
+  {
+    "id": "feedbacks",
+    "title": "Feedbacks"
+  },
+  {
+    "id": "content",
+    "title": "Content"
+  },
+  {
+    "id": "common",
+    "title": "Common"
+  },
+  {
+    "id": "users",
+    "title": "Users"
+  },
+  {
+    "id": "socials",
+    "title": "Socials"
+  },
+  {
+    "id": "support",
+    "title": "Support"
+  },
+  {
+    "id": "assets",
+    "title": "Assets"
+  },
+  {
+    "id": "jquery",
+    "title": "jQuery"
+  }
+]

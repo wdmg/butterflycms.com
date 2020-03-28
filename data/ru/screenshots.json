@@ -1,0 +1,133 @@
+[
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-1.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-1.png",
+    "caption": "Страница авторизации в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-2.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-2.png",
+    "caption": "Панель приборов (виджетов)"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-3.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-3.png",
+    "caption": "Модули системы Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-4.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-4.png",
+    "caption": "Модуль API: список доступных API"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-5.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-5.png",
+    "caption": "Модуль API: тестирование API"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-6.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-6.png",
+    "caption": "Параметры системы Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-7.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-7.png",
+    "caption": "Сервисное обслуживание системы Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-8.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-8.png",
+    "caption": "Управление перенаправлениями в системе Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-9.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-9.png",
+    "caption": "Просмотр отправляемой почты в системе Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-10.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-10.png",
+    "caption": "Консольный терминал в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-11.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-11.png",
+    "caption": "Модуль статических страниц в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-12.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-12.png",
+    "caption": "Модуль новостей в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-13.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-13.png",
+    "caption": "Редактирование публикации в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-14.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-14.png",
+    "caption": "Модуль управления рассылками в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-15.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-15.png",
+    "caption": "Управление подписчиками в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-16.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-16.png",
+    "caption": "Модуль произвольных форм в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-17.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-17.png",
+    "caption": "Модуль поиска в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-18.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-18.png",
+    "caption": "Управление списками гео-локаций в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-19.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-19.png",
+    "caption": "Модуль карты сайта в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-20.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-20.png",
+    "caption": "Управление пользователями в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-21.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-21.png",
+    "caption": "Управление ролями доступа в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-22.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-22.png",
+    "caption": "Модуль статистики в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-24.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-24.png",
+    "caption": "Модуль статистики в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-23.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-23.png",
+    "caption": "Мониторинг нагрузки в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-25.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-25.png",
+    "caption": "Система задача поддержки в Butterfly.CMS"
+  },
+  {
+    "src": "/img/screenshots/ru/butterflycms-screenshot-26.png",
+    "thumb": "/img/screenshots/ru/thumbnails/butterflycms-screenshot-26.png",
+    "caption": "Система тикетов поддержки в Butterfly.CMS"
+  
+  }
+]
